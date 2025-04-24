@@ -6,7 +6,7 @@ DeepCoin is an AI-driven platform designed to provide you with actionable insigh
 
 1.  **Clone Repo**:
     ```bash
-    git clone https://github.com/ItsSpirax/DeepCoin
+    git clone https://github.com/Siddhant-13/DeepCoin
     cd DeepCoin
     ```
 
